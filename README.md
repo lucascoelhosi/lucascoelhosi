@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Lucas Coelho! wave</h1>
+<h1 align="center"> Hello, I'm Lucas Coelho! :wave</h1>
 
 <h3 align="center"> Full-Stack | ⌛ (In progress) </h3>
 
