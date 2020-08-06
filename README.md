@@ -11,9 +11,5 @@
 </h1>
 
 <p align="center">
-
-### Full Stack Developer, apaixonado por tecnologias web.
-
-- Trabalhando como analista SEO de E-commerce
-
+:mag_right: Trabalhando como analista SEO de E-commerce
 </p>
