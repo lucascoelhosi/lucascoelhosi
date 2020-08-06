@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Lucas Coelho! wave</h1>
 
-<!--
-**lucascoelhosi/lucascoelhosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Full-Stack | ⌛ (In progress) </h3>
 
-Here are some ideas to get you started:
+<h1 align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascoelhosi/)](https://www.linkedin.com/in/lucascoelhosi/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascoelhosi96@gmail.com)](mailto:lucascoelhosi96@gmail.com)
+
+</h1>
+
+### Full Stack Developer, apaixonado por tecnologias web.
+
+- Trabalhando como analista SEO de E-commerce
