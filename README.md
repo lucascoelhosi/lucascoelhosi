@@ -9,7 +9,3 @@
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-D94363?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_lucascoelho/)](https://www.instagram.com/o_lucascoelho/)
 
 </h1>
-
-<p align="center">
-:mag_right: Trabalhando como analista SEO de E-commerce
-</p>
