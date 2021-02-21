@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Lucas Coelho!</h1>
 
+<h3 align="center"> :rocket: Front-End Developer </h3>
 <h3 align="center"> :rocket: Full-Stack | ⌛ (In progress) </h3>
 
 <h1 align="center">
